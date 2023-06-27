@@ -1,0 +1,44 @@
+*{
+	background-color: black;
+	color: white;
+	font-family: "benton-sans", sans-serif;
+}
+
+ul{
+	list-style-type: none;
+	padding: 20px;
+}
+
+li{
+	float: left;
+	padding: 10px;
+}
+
+li a {
+	display: block;
+	text-decoration: none;
+}
+
+.home-intro{
+	display: block;
+	padding: 20px;
+}
+
+
+#footer{
+	position: fixed;
+	width: 100%;
+	text-align: center;
+	bottom: 0;
+}
+
+.ul-footer{
+	list-style-type: none;
+	padding: 0px;
+	padding-left: 20px;
+	padding-top: 0px;
+}
+
+.li-footer{
+	
+}
